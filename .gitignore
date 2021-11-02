@@ -1,0 +1,5 @@
+/.vs
+/basenac/maps/autosave
+/basenac/maps/autosave/*
+*-crash.txt
+*-crash.log
