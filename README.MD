@@ -1,6 +1,6 @@
 # Polyhedron Engine(Q2RTX Fork) base data repository.
 
-One will need this repository to easily get up and running with Nail & Crescent (The defacto end-goal game for our engine.) Eventually (not today), this repository will include several python scripts to ensure only the data that matters to the game gets copied and thus exported into a clean new folder which is ready for release to the public.
+One will need this repository to easily get up and running with Polyhedron (The mini engine testbed game game for our engine.) Eventually (not today).
 
 ## Description:
 
