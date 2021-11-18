@@ -9,11 +9,11 @@ The repository comes with several files and folders:
 Without these files in the root engine folder, you're going to have a nasty time.
 
 >- default.cfg
->- nacconfig.cfg
+>- polyconfig.cfg
 
 ### Folders
 > - Root repository folder: > Any things such as README.MD or certain python scripts that automate things belong right here. (I can already see a .bat file in my magic ball to automatically pick the basepoly, or.. > basepoly: Content that is ready for publishing goes in here. In case a mod does not have several files, that means it either refers to the baes engine game, or the file is simply missing.
-> - mods/*modname: > This can be used for us developers to make mods. A mod, does not need to be an entire copy of basenac. It can of course have its own custom client/server -game dll. It's own subfolders just like basenac. (Wise idea to do so)
+> - mods/*modname: > This can be used for us developers to make mods. A mod, does not need to be an entire copy of basenac. It can of course have its own custom client/server -game dll. It's own subfolders just like basepoly. (Wise idea to do so)
 > - developers: > Contains subfolders such as the Polyhedron, and Nail & Crescent game configuration entries for TrenchBroom as well as EricWA his latest compiler (for now).
 
 ## Acquiring it:
