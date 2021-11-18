@@ -1,0 +1,1048 @@
+textures/prototype/light1_grt:
+	texture_base textures/prototype/light1_grt.tga
+	texture_emissive textures/prototype/light1_grt_light.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/128_grey_3:
+	texture_base textures/prototype/128_grey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/honey_1:
+	texture_base textures/prototype/honey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/honey_2:
+	texture_base textures/prototype/honey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_1:
+	texture_base textures/prototype/text_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/skip:
+	texture_base overrides/skip.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/key_gold_1:
+	texture_base textures/prototype/key_gold_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_c:
+	texture_base textures/prototype/text_C.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_comma:
+	texture_base textures/prototype/text_comma.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_dash:
+	texture_base textures/prototype/text_dash.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_e:
+	texture_base textures/prototype/text_E.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_o:
+	texture_base textures/prototype/text_O.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_percent:
+	texture_base textures/prototype/text_percent.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_qmark:
+	texture_base textures/prototype/text_qmark.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_s:
+	texture_base textures/prototype/text_S.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/1button_1:
+	texture_base textures/prototype/1button_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/1button_3:
+	texture_base textures/prototype/1button_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/abutton_2:
+	texture_base textures/prototype/abutton_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/light1_tiny:
+	texture_base textures/prototype/light1_tiny.tga
+	texture_emissive textures/prototype/light1_tiny_light.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/void:
+	texture_base textures/prototype/void.tga
+	texture_normals textures/prototype/void_n.tga
+	metalness_factor 2.000000
+
+textures/prototype/light1_sml:
+	texture_base textures/prototype/light1_sml.tga
+	texture_emissive textures/prototype/light1_sml_light.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/text_z:
+	texture_base textures/prototype/text_Z.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/abutton_1:
+	texture_base textures/prototype/abutton_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/1button_2:
+	texture_base textures/prototype/1button_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/0button_3:
+	texture_base textures/prototype/0button_3.tga
+	texture_emissive textures/prototype/0button_3_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.020000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/text_r:
+	texture_base textures/prototype/text_R.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_q:
+	texture_base textures/prototype/text_Q.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_p:
+	texture_base textures/prototype/text_P.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_n:
+	texture_base textures/prototype/text_N.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_dot:
+	texture_base textures/prototype/text_dot.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_d:
+	texture_base textures/prototype/text_D.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_circle:
+	texture_base textures/prototype/text_circle.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_b:
+	texture_base textures/prototype/text_B.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/key_silver_1:
+	texture_base textures/prototype/key_silver_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_0:
+	texture_base textures/prototype/text_0.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/honey_3:
+	texture_base textures/prototype/honey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_arrow:
+	texture_base textures/prototype/text_arrow.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_m:
+	texture_base textures/prototype/text_M.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/0button_2:
+	texture_base textures/prototype/0button_2.tga
+	texture_emissive textures/prototype/0button_2_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.020000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/grey_3:
+	texture_base textures/prototype/grey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_green_1:
+	texture_base textures/prototype/128_green_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_green_3:
+	texture_base textures/prototype/128_green_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_grey_2:
+	texture_base textures/prototype/128_grey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_honey_2:
+	texture_base textures/prototype/128_honey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_blood_3:
+	texture_base textures/prototype/16_blood_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_blue_2:
+	texture_base textures/prototype/16_blue_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_brown_1:
+	texture_base textures/prototype/16_brown_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_brown_3:
+	texture_base textures/prototype/16_brown_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_blood_2:
+	texture_base textures/prototype/32_blood_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_blue_1:
+	texture_base textures/prototype/32_blue_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_blue_3:
+	texture_base textures/prototype/32_blue_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_brown_2:
+	texture_base textures/prototype/32_brown_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_blood_2:
+	texture_base textures/prototype/64_blood_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_blood_1:
+	texture_base textures/prototype/64_blood_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/clip:
+	texture_base textures/prototype/clip.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/gold_1:
+	texture_base textures/prototype/gold_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/clip:
+	texture_base textures/prototype/clip.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/origin:
+	texture_base textures/prototype/origin.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/gold_3:
+	texture_base textures/prototype/gold_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_blue_1:
+	texture_base textures/prototype/64_blue_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_brown_2:
+	texture_base textures/prototype/64_brown_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_brown_1:
+	texture_base textures/prototype/64_brown_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/green_1:
+	texture_base textures/prototype/green_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_blue_3:
+	texture_base textures/prototype/64_blue_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_blue_2:
+	texture_base textures/prototype/64_blue_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_blood_3:
+	texture_base textures/prototype/64_blood_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/green_2:
+	texture_base textures/prototype/green_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/gold_2:
+	texture_base textures/prototype/gold_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/green_3:
+	texture_base textures/prototype/green_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/grey_1:
+	texture_base textures/prototype/grey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_brown_1:
+	texture_base textures/prototype/32_brown_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_blue_2:
+	texture_base textures/prototype/32_blue_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_blood_3:
+	texture_base textures/prototype/32_blood_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_blood_1:
+	texture_base textures/prototype/32_blood_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_brown_2:
+	texture_base textures/prototype/16_brown_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_blue_3:
+	texture_base textures/prototype/16_blue_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_blue_1:
+	texture_base textures/prototype/16_blue_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_blood_2:
+	texture_base textures/prototype/16_blood_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_honey_1:
+	texture_base textures/prototype/128_honey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_grey_1:
+	texture_base textures/prototype/128_grey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_green_2:
+	texture_base textures/prototype/128_green_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_gold_3:
+	texture_base textures/prototype/128_gold_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_blood_1:
+	texture_base textures/prototype/16_blood_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_honey_3:
+	texture_base textures/prototype/16_honey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_honey_3:
+	texture_base textures/prototype/32_honey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/grey_2:
+	texture_base textures/prototype/grey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_honey_3:
+	texture_base textures/prototype/128_honey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/sky1:
+	texture_base overrides/sky1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+	kind SKY
+
+textures/prototype/text_9:
+	texture_base textures/prototype/text_9.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_j:
+	texture_base textures/prototype/text_J.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_l:
+	texture_base textures/prototype/text_L.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_x:
+	texture_base textures/prototype/text_X.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/trigger:
+	texture_base overrides/trigger.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/emissive_9:
+	texture_base textures/prototype/emissive_9.tga
+	texture_emissive textures/prototype/emissive_9_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/emissive_7:
+	texture_base textures/prototype/emissive_7.tga
+	texture_emissive textures/prototype/emissive_7_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/abutton_1_lit:
+	texture_base textures/prototype/abutton_1_lit.tga
+	texture_emissive textures/prototype/abutton_1_lit_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.020000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/glass:
+	texture_base textures/prototype/glass.tga
+	texture_normals textures/prototype/glass_n.tga
+	kind GLASS
+
+textures/prototype/abutton_2_lit:
+	texture_base textures/prototype/abutton_2_lit.tga
+	texture_emissive textures/prototype/abutton_2_lit_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.020000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/mirror:
+	texture_base textures/prototype/mirror.tga
+	texture_normals textures/prototype/mirror_n.tga
+	kind CHROME
+
+textures/prototype/chrome:
+	texture_base textures/prototype/chrome.tga
+	texture_normals textures/prototype/chrome_n.tga
+	kind CHROME
+
+textures/prototype/emissive_8:
+	texture_base textures/prototype/emissive_8.tga
+	texture_emissive textures/prototype/emissive_8_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/0button_1:
+	texture_base textures/prototype/0button_1.tga
+	texture_emissive textures/prototype/0button_1_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.020000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/text_y:
+	texture_base textures/prototype/text_Y.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_light:
+	texture_base textures/prototype/text_light.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_k:
+	texture_base textures/prototype/text_K.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_amper:
+	texture_base textures/prototype/text_amper.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_a:
+	texture_base textures/prototype/text_A.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_2:
+	texture_base textures/prototype/text_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_5:
+	texture_base textures/prototype/text_5.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_3:
+	texture_base textures/prototype/text_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_8:
+	texture_base textures/prototype/text_8.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_6:
+	texture_base textures/prototype/text_6.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_f:
+	texture_base textures/prototype/text_F.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_g:
+	texture_base textures/prototype/text_G.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_hash:
+	texture_base textures/prototype/text_hash.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_sound:
+	texture_base textures/prototype/text_sound.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_u:
+	texture_base textures/prototype/text_U.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_v:
+	texture_base textures/prototype/text_V.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/hintskip:
+	texture_base textures/prototype/hintskip.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/tele01:
+	texture_base textures/prototype/tele01.tga
+	texture_emissive textures/prototype/tele01.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/abutton_3:
+	texture_base textures/prototype/abutton_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/lava_64_1:
+	texture_base textures/prototype/lava_64_1.tga
+	texture_emissive textures/prototype/lava_64_1_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.020000
+	specular_factor 0.000000
+	kind LAVA
+	is_light 1
+
+textures/prototype/64_water1:
+	texture_base textures/prototype/64_water1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+	kind WATER
+
+textures/prototype/64_slime1:
+	texture_base textures/prototype/64_slime1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+	kind SLIME
+
+textures/prototype/light1_big:
+	texture_base textures/prototype/light1_big.tga
+	texture_emissive textures/prototype/light1_big_light.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/abutton_3_lit:
+	texture_base textures/prototype/abutton_3_lit.tga
+	texture_emissive textures/prototype/abutton_3_lit_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.020000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/hint:
+	texture_base overrides/hint.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_w:
+	texture_base textures/prototype/text_W.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_uscore:
+	texture_base textures/prototype/text_uscore.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_t:
+	texture_base textures/prototype/text_T.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_smiley:
+	texture_base textures/prototype/text_smiley.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_i:
+	texture_base textures/prototype/text_I.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_h:
+	texture_base textures/prototype/text_H.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_emark:
+	texture_base textures/prototype/text_emark.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_7:
+	texture_base textures/prototype/text_7.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/text_4:
+	texture_base textures/prototype/text_4.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_blood_1:
+	texture_base textures/prototype/128_blood_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_blood_3:
+	texture_base textures/prototype/128_blood_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_grey_2:
+	texture_base textures/prototype/16_grey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_honey_1:
+	texture_base textures/prototype/16_honey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_grey_1:
+	texture_base textures/prototype/32_grey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_grey_3:
+	texture_base textures/prototype/32_grey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_grey_3:
+	texture_base textures/prototype/64_grey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_grey_4:
+	texture_base textures/prototype/64_grey_4.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_honey_1:
+	texture_base textures/prototype/64_honey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/emissive_5:
+	texture_base textures/prototype/emissive_5.tga
+	texture_emissive textures/prototype/emissive_5_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/emissive_2:
+	texture_base textures/prototype/emissive_2.tga
+	texture_emissive textures/prototype/emissive_2_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/emissive_4:
+	texture_base textures/prototype/emissive_4.tga
+	texture_emissive textures/prototype/emissive_4_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/emissive_3:
+	texture_base textures/prototype/emissive_3.tga
+	texture_emissive textures/prototype/emissive_3_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/emissive_1:
+	texture_base textures/prototype/emissive_1.tga
+	texture_emissive textures/prototype/emissive_1_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/emissive_6:
+	texture_base textures/prototype/emissive_6.tga
+	texture_emissive textures/prototype/emissive_6_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.200000
+	specular_factor 0.000000
+	is_light 1
+
+textures/prototype/64_honey_3:
+	texture_base textures/prototype/64_honey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/blood_1:
+	texture_base textures/prototype/blood_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/blood_2:
+	texture_base textures/prototype/blood_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_honey_2:
+	texture_base textures/prototype/64_honey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_grey_1:
+	texture_base textures/prototype/64_grey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_honey_1:
+	texture_base textures/prototype/32_honey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_grey_2:
+	texture_base textures/prototype/32_grey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_honey_2:
+	texture_base textures/prototype/16_honey_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_grey_3:
+	texture_base textures/prototype/16_grey_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_blue_1:
+	texture_base textures/prototype/128_blue_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_blood_2:
+	texture_base textures/prototype/128_blood_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_blue_2:
+	texture_base textures/prototype/128_blue_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_brown_1:
+	texture_base textures/prototype/128_brown_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_brown_3:
+	texture_base textures/prototype/128_brown_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_gold_2:
+	texture_base textures/prototype/128_gold_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_gold_2:
+	texture_base textures/prototype/16_gold_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_green_1:
+	texture_base textures/prototype/16_green_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_green_3:
+	texture_base textures/prototype/16_green_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_gold_1:
+	texture_base textures/prototype/32_gold_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_gold_3:
+	texture_base textures/prototype/32_gold_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_green_2:
+	texture_base textures/prototype/32_green_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_gold_1:
+	texture_base textures/prototype/64_gold_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_gold_3:
+	texture_base textures/prototype/64_gold_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_green_3:
+	texture_base textures/prototype/64_green_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/brown_1:
+	texture_base textures/prototype/brown_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/blue_2:
+	texture_base textures/prototype/blue_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/blood_3:
+	texture_base textures/prototype/blood_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/blue_3:
+	texture_base textures/prototype/blue_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/blue_1:
+	texture_base textures/prototype/blue_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_green_2:
+	texture_base textures/prototype/64_green_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_green_1:
+	texture_base textures/prototype/64_green_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_gold_2:
+	texture_base textures/prototype/64_gold_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/brown_2:
+	texture_base textures/prototype/brown_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/64_brown_3:
+	texture_base textures/prototype/64_brown_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/brown_3:
+	texture_base textures/prototype/brown_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_green_3:
+	texture_base textures/prototype/32_green_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_green_1:
+	texture_base textures/prototype/32_green_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_gold_2:
+	texture_base textures/prototype/32_gold_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/32_brown_3:
+	texture_base textures/prototype/32_brown_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_grey_1:
+	texture_base textures/prototype/16_grey_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_green_2:
+	texture_base textures/prototype/16_green_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_gold_3:
+	texture_base textures/prototype/16_gold_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/16_gold_1:
+	texture_base textures/prototype/16_gold_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_gold_1:
+	texture_base textures/prototype/128_gold_1.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_brown_2:
+	texture_base textures/prototype/128_brown_2.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+textures/prototype/128_blue_3:
+	texture_base textures/prototype/128_blue_3.tga
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
