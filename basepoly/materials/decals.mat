@@ -1,0 +1,34 @@
+textures/decals/grate01:
+	texture_base textures/decals/grate01.tga
+	texture_normals textures/decals/grate01_n.tga
+	texture_mask textures/decals/grate01_mask.jpg
+	
+textures/decals/grate02:
+	texture_base textures/decals/grate02.tga
+	texture_normals textures/decals/grate02_n.tga
+	texture_mask textures/decals/grate02_mask.jpg
+
+textures/decals/grate03:
+	texture_base textures/decals/grate03.tga
+	texture_normals textures/decals/grate03_n.tga
+	texture_mask textures/decals/grate03_mask.jpg
+	
+textures/decals/grate04:
+	texture_base textures/decals/grate04.tga
+	texture_normals textures/decals/grate04_n.jpg
+	texture_mask textures/decals/grate04_mask.jpg
+
+textures/decals/grate05:
+	texture_base textures/decals/grate05.tga
+	texture_normals textures/decals/grate05_n.tga
+	texture_mask textures/decals/grate05_mask.jpg
+	
+textures/decals/grate06:
+	texture_base textures/decals/grate06.tga
+	texture_normals textures/decals/grate06_n.tga
+	texture_mask textures/decals/grate06_mask.jpg
+
+textures/decals/grate07:
+	texture_base textures/decals/grate07.tga
+	texture_normals textures/decals/grate07_n.jpg
+	texture_mask textures/decals/grate07_mask.jpg

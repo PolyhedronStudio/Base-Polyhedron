@@ -1,0 +1,18 @@
+models/logo/poly_chrome:
+	texture_base overrides/chrome.tga
+	texture_normals overrides/chrome_n.tga
+	metalness_factor 0.000000
+	emissive_factor 0.800000
+	specular_factor 0.000000
+	kind CHROME
+	is_light 1
+	
+models/logo/poly_glow:
+	texture_base textures/emissives/emissive_logo.tga
+	texture_normals textures/emissives/emissive_logo_n.tga
+	texture_emissive textures/emissives/emissive_logo_light.tga
+	metalness_factor 0.000000
+	emissive_factor 0.800000
+	specular_factor 0.000000
+	kind GLASS
+	is_light 1
