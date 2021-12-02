@@ -19,7 +19,7 @@ Without these files in the root engine folder, you're going to have a nasty time
 ## Acquiring it:
 One has to acquire the repository by doing a recursive submodule clone. 
 
-```git clone --recursive-submodules https://github.com/PalmliXStudios/Base-Polyhedron.git ```
+```git clone --recursive-submodules https://github.com/PolyhedronStudio/Base-Polyhedron.git ```
 
 ## Usage:
 
